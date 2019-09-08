@@ -1,0 +1,135 @@
+2019-09-01 09:11:34 INFO  techpath:42 - The Website URL is up and running 
+2019-09-01 09:11:38 INFO  techpath:56 - My Account button is clicked
+2019-09-01 09:11:39 INFO  techpath:64 - Username is inserted
+2019-09-01 09:11:40 INFO  techpath:74 - Info Message!
+2019-09-01 09:11:40 WARN  techpath:75 - Warn Message!
+2019-09-01 09:11:40 ERROR techpath:76 - Error Message!
+2019-09-01 09:11:40 FATAL techpath:77 - Fatal Message!
+2019-09-01 11:08:27 INFO  techpath:42 - The Website URL is up and running 
+2019-09-01 11:08:31 INFO  techpath:56 - My Account button is clicked
+2019-09-01 11:08:32 INFO  techpath:64 - Username is inserted
+2019-09-01 11:08:33 INFO  techpath:74 - Info Message!
+2019-09-01 11:08:33 WARN  techpath:75 - Warn Message!
+2019-09-01 11:08:33 ERROR techpath:76 - Error Message!
+2019-09-01 11:08:33 FATAL techpath:77 - Fatal Message!
+2019-09-01 11:51:48 INFO  HomePageTest:41 - The Website URL is up and running 
+2019-09-01 11:51:56 INFO  HomePageTest:72 - Info Message!
+2019-09-01 11:51:56 WARN  HomePageTest:74 - Warn Message!
+2019-09-01 11:51:56 ERROR HomePageTest:76 - Error Message!
+2019-09-01 11:51:56 FATAL HomePageTest:78 - Fatal Message!
+2019-09-01 14:14:54 INFO  HomePageTest:42 - The Website URL is up and running 
+2019-09-01 14:26:09 INFO  HomePageTest:40 - The Website URL is up and running 
+2019-09-01 14:30:41 INFO  HomePageTest:40 - The Website URL is up and running 
+2019-09-01 14:32:09 INFO  HomePageTest:40 - The Website URL is up and running 
+2019-09-01 14:34:44 INFO  HomePageTest:40 - The Website URL is up and running 
+2019-09-01 14:37:29 INFO  HomePageTest:40 - The Website URL is up and running 
+2019-09-01 14:39:00 INFO  HomePageTest:40 - The Website URL is up and running 
+2019-09-01 14:39:08 INFO  HomePageTest:87 - Info Message!
+2019-09-01 14:39:08 WARN  HomePageTest:89 - Warn Message!
+2019-09-01 14:39:08 ERROR HomePageTest:91 - Error Message!
+2019-09-01 14:39:08 FATAL HomePageTest:93 - Fatal Message!
+2019-09-01 14:54:36 INFO  HomePageTest:40 - The Website URL is up and running 
+2019-09-01 14:54:45 INFO  HomePageTest:93 - Info Message!
+2019-09-01 14:54:45 WARN  HomePageTest:95 - Warn Message!
+2019-09-01 14:54:45 ERROR HomePageTest:97 - Error Message!
+2019-09-01 14:54:45 FATAL HomePageTest:99 - Fatal Message!
+2019-09-07 10:59:18 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 10:59:28 INFO  HomePageTest:96 - Info Message!
+2019-09-07 10:59:28 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 10:59:28 ERROR HomePageTest:100 - Error Message!
+2019-09-07 10:59:28 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 11:03:27 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 11:03:36 INFO  HomePageTest:96 - Info Message!
+2019-09-07 11:03:36 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 11:03:36 ERROR HomePageTest:100 - Error Message!
+2019-09-07 11:03:36 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 11:12:09 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 11:12:23 INFO  HomePageTest:96 - Info Message!
+2019-09-07 11:12:23 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 11:12:23 ERROR HomePageTest:100 - Error Message!
+2019-09-07 11:12:23 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 11:14:42 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 11:15:00 INFO  HomePageTest:96 - Info Message!
+2019-09-07 11:15:00 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 11:15:00 ERROR HomePageTest:100 - Error Message!
+2019-09-07 11:15:00 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 11:17:11 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 11:17:22 INFO  HomePageTest:96 - Info Message!
+2019-09-07 11:17:22 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 11:17:22 ERROR HomePageTest:100 - Error Message!
+2019-09-07 11:17:22 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 11:18:36 INFO  HomePageTest:43 - The Website URL is up and running 
+2019-09-07 11:18:46 INFO  HomePageTest:95 - Info Message!
+2019-09-07 11:18:46 WARN  HomePageTest:97 - Warn Message!
+2019-09-07 11:18:46 ERROR HomePageTest:99 - Error Message!
+2019-09-07 11:18:46 FATAL HomePageTest:101 - Fatal Message!
+2019-09-07 11:22:09 INFO  HomePageTest:43 - The Website URL is up and running 
+2019-09-07 11:22:29 INFO  HomePageTest:95 - Info Message!
+2019-09-07 11:22:29 WARN  HomePageTest:97 - Warn Message!
+2019-09-07 11:22:29 ERROR HomePageTest:99 - Error Message!
+2019-09-07 11:22:29 FATAL HomePageTest:101 - Fatal Message!
+2019-09-07 11:24:44 INFO  techpath:66 - The Website URL is up and running 
+2019-09-07 11:24:49 INFO  techpath:80 - My Account button is clicked
+2019-09-07 11:24:49 INFO  techpath:88 - Username is inserted
+2019-09-07 11:24:50 INFO  techpath:98 - Info Message!
+2019-09-07 11:24:50 WARN  techpath:99 - Warn Message!
+2019-09-07 11:24:50 ERROR techpath:100 - Error Message!
+2019-09-07 11:24:50 FATAL techpath:101 - Fatal Message!
+2019-09-07 11:24:50 INFO  techpath:106 - My Account title has matched succesfully 
+2019-09-07 11:25:05 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 11:25:14 INFO  HomePageTest:96 - Info Message!
+2019-09-07 11:25:14 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 11:25:14 ERROR HomePageTest:100 - Error Message!
+2019-09-07 11:25:14 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 11:25:46 INFO  techpath:66 - The Website URL is up and running 
+2019-09-07 11:25:51 INFO  techpath:80 - My Account button is clicked
+2019-09-07 11:25:52 INFO  techpath:88 - Username is inserted
+2019-09-07 11:25:52 INFO  techpath:98 - Info Message!
+2019-09-07 11:25:52 WARN  techpath:99 - Warn Message!
+2019-09-07 11:25:52 ERROR techpath:100 - Error Message!
+2019-09-07 11:25:52 FATAL techpath:101 - Fatal Message!
+2019-09-07 11:25:52 INFO  techpath:106 - My Account title has matched succesfully 
+2019-09-07 11:26:07 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 11:26:16 INFO  HomePageTest:96 - Info Message!
+2019-09-07 11:26:16 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 11:26:16 ERROR HomePageTest:100 - Error Message!
+2019-09-07 11:26:16 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 11:49:02 INFO  techpath:66 - The Website URL is up and running 
+2019-09-07 11:49:07 INFO  techpath:80 - My Account button is clicked
+2019-09-07 11:49:08 INFO  techpath:88 - Username is inserted
+2019-09-07 11:49:08 INFO  techpath:98 - Info Message!
+2019-09-07 11:49:08 WARN  techpath:99 - Warn Message!
+2019-09-07 11:49:08 ERROR techpath:100 - Error Message!
+2019-09-07 11:49:08 FATAL techpath:101 - Fatal Message!
+2019-09-07 11:49:08 INFO  techpath:106 - My Account title has matched succesfully 
+2019-09-07 11:49:22 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 11:49:31 INFO  HomePageTest:96 - Info Message!
+2019-09-07 11:49:31 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 11:49:31 ERROR HomePageTest:100 - Error Message!
+2019-09-07 11:49:31 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 14:21:18 INFO  techpath:66 - The Website URL is up and running 
+2019-09-07 14:21:23 INFO  techpath:80 - My Account button is clicked
+2019-09-07 14:21:23 INFO  techpath:88 - Username is inserted
+2019-09-07 14:21:24 INFO  techpath:98 - Info Message!
+2019-09-07 14:21:24 WARN  techpath:99 - Warn Message!
+2019-09-07 14:21:24 ERROR techpath:100 - Error Message!
+2019-09-07 14:21:24 FATAL techpath:101 - Fatal Message!
+2019-09-07 14:21:24 INFO  techpath:106 - My Account title has matched succesfully 
+2019-09-07 14:21:37 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 14:21:47 INFO  HomePageTest:96 - Info Message!
+2019-09-07 14:21:47 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 14:21:47 ERROR HomePageTest:100 - Error Message!
+2019-09-07 14:21:47 FATAL HomePageTest:102 - Fatal Message!
+2019-09-07 14:58:03 INFO  techpath:66 - The Website URL is up and running 
+2019-09-07 14:58:08 INFO  techpath:80 - My Account button is clicked
+2019-09-07 14:58:09 INFO  techpath:88 - Username is inserted
+2019-09-07 14:58:10 INFO  techpath:98 - Info Message!
+2019-09-07 14:58:10 WARN  techpath:99 - Warn Message!
+2019-09-07 14:58:10 ERROR techpath:100 - Error Message!
+2019-09-07 14:58:10 FATAL techpath:101 - Fatal Message!
+2019-09-07 14:58:10 INFO  techpath:106 - My Account title has matched succesfully 
+2019-09-07 14:58:24 INFO  HomePageTest:44 - The Website URL is up and running 
+2019-09-07 14:58:33 INFO  HomePageTest:96 - Info Message!
+2019-09-07 14:58:33 WARN  HomePageTest:98 - Warn Message!
+2019-09-07 14:58:33 ERROR HomePageTest:100 - Error Message!
+2019-09-07 14:58:33 FATAL HomePageTest:102 - Fatal Message!
